@@ -1,36 +1,64 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Kashyap Lakkoju – Portfolio
 
-## Getting Started
+Welcome! I’m **Kashyap Lakkoju**, a passionate Computer Science student and creative developer specializing in VR, AI, and computer vision. My journey blends code, innovation, and immersive experiences.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 👨‍🎓 About Me
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Student:** B.Tech in Computer Science & Engineering  
+  **Institute:** GITAM Deemed to be University (3rd Year)
+- **Recognition:** Innovative VR prototyping – CXR Research Center
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Skills
 
-## Learn More
+- **Languages:** Python, C++, C#, JavaScript
+- **Frameworks & Tools:** Unity, Blender, VR Builder, Tkinter, Matplotlib, Figma
+- **Technologies:** OpenCV, YOLO v3, Encryption, Penetration Testing (Kali Linux)
+- **Interests:** AI, Computer Vision, Cybersecurity, VR development
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Notable Projects & Achievements
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Real-time Object Detection (YOLO v3 + OpenCV):**  
+  GitHub-hosted project for security applications.  
+  [Repository Link](https://github.com/Kashyaplakkoju/Real-time-Object-Detection-with-OpenCV-Using-YOLO)
 
-## Deploy on Vercel
+- **VR Lever Mechanism in Unity:**  
+  Engineered smooth interactions by solving jitter issues.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Rocket Assembly VR Training Model (Skyroot):**  
+  Designed a 54-chapter structure for immersive training.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Innovative VR Prototyping:**  
+  Recognized for creativity and technical excellence at CXR Research Center.
+
+---
+
+## 🎮 Interests & Hobbies
+
+- Developing VR games & simulations
+- Exploring AI and computer vision projects
+- Cybersecurity challenges & ethical hacking
+- Enjoying strategic video games
+
+---
+
+## 🌐 Connect with Me
+
+- [GitHub](https://github.com/Kashyaplakkoju)
+- [LinkedIn](https://linkedin.com/in/lakkoju-ganapathi-kashyap)
+
+---
+
+## 💡 Fun Fact & Motto
+
+> **Fun Fact:** I once built a VR game inspired by Naruto using a gyroscope!  
+> **Motto:** *“Innovate today, shape tomorrow.”*
+
+---
+
+Thank you for visiting my portfolio! 🚀
